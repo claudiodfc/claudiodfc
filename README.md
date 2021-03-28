@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiodfc&show_icons=true)
-- 📫 You can send me an e-mail or talk to me on Azerothcore discord channel :)
+📫 Contact me at claudio.daniel.f.c@gmail.com
 
 <!---
 claudiodfc/claudiodfc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
